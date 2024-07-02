@@ -95,7 +95,7 @@ This analysis presents an in-depth look at CitiBike usage in Jersey City from Ju
 - **Filters:** Allows data customization by month, ride type, and user type for detailed analysis.
 - **Hover Information:** Enhances user experience by providing detailed data insights on hover.
 
-## Code Snippet Example
+## Code Snippet
 In this project, ChatGPT was utilized to assist with several key tasks in Tableau, including:
 - Generating calculated fields such as "Year-Month" and "Trip Duration (bin)" to facilitate advanced data analysis.
 - Debugging and optimizing code for data cleaning and visualization creation.
